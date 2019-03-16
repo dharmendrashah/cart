@@ -157,7 +157,7 @@ try{
 
   <script src="https://code.jquery.com/jquery-1.12.1.min.js"></script>
   <script src="https://netdna.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-  <script type='text/javascript' src="js/jquery.mycart.js"></script>
+  <script type='text/javascript' src="jquery.mycart.js"></script>
   <script type="text/javascript">
 
   </script>
